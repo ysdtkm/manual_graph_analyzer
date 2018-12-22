@@ -3,10 +3,10 @@
 # Semi-manual graph analyzer
 This CGI script analyzes any graph by breadth-first order.
 
-### The CGI script
-* Memorizes already visited nodes
+### The CGI script does
+* Memorize already visited nodes
 * Suggest next step with breadth-first order
-* Visualizes the structure
+* Visualize the structure
 
 ### We need to
 * Parse programs and input dependencies
