@@ -1,12 +1,12 @@
+<kbd><img src="document/anime.gif"></kbd>
+
 # Semi-manual graph analyzer
 This CGI script analyzes any graph by breadth-first order.
 
-<img src="document/anime.gif">
-
 ### The CGI script does
-* Memorization of already visited nodes
-* Breadth-first suggestion of next step
-* Visualization
+* Memorize already visited nodes
+* Suggest next step with breadth-first order
+* Visualize the structure
 
 ### We need to
 * Parse programs and input dependencies
