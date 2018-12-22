@@ -1,6 +1,8 @@
 # Semi-manual graph analyzer
 This CGI script analyzes any graph by breadth-first order.
 
+<img src="document/anime.gif">
+
 ### The CGI script does
 * Memorization of already visited nodes
 * Breadth-first suggestion of next step
@@ -11,7 +13,7 @@ This CGI script analyzes any graph by breadth-first order.
 
 ### Objective
 * Universal applicability by using human as a parser
-* Help us organizing search
+* Help us organizing search and code analysis
 
 # Usage
 ```
