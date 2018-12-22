@@ -7,6 +7,7 @@ This CGI script analyzes any graph by breadth-first order.
 * Memorize already visited nodes
 * Suggest next step with breadth-first order
 * Visualize the structure
+* Help us rename/delete/merge nodes
 
 ### We need to
 * Parse programs and input dependencies
