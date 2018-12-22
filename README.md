@@ -24,3 +24,8 @@ sh start.sh
 # Dependency
 * Python3.6
 * graphviz
+
+# Hint
+My best alternative (automatic) choices for analyzing properly working programs:
+* For Python, use `cProfile` and `gprof2dot`
+* For Fortran/C, use `-pg` option of `GCC`, `egypt` and `graphviz`
