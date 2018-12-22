@@ -10,7 +10,7 @@ This CGI script analyzes any graph by breadth-first order.
 * Help us rename/delete/merge nodes
 
 ### We need to
-* Parse programs and input dependencies
+* Parse target programs and input dependencies
 
 ### Objective
 * Universal applicability by using human as a parser
